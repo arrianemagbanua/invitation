@@ -1,21 +1,21 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/o1_ggk9SJCYAAAAd/jinmojv21-bts.gif",    // 0 no
+    "https://media1.tenor.com/m/EgdVgT-ryNIAAAAC/eating-noodles.gif",  // 1 confused
+    "https://media1.tenor.com/m/bLOJ-wlCadYAAAAC/perfectboykoo-bts-hearts.gif",             // 2 pleading
+    "https://media1.tenor.com/m/s6ar-9detzsAAAAC/bts-butter.gif",             // 3 sad
+    "https://media1.tenor.com/m/VQdeegtOSlYAAAAd/cry-bts.gif",       // 4 sadder
+    "https://media1.tenor.com/m/5_t6Obz_CloAAAAd/koobifans-jungkook-live.gif",             // 5 devastated
+    "https://media1.tenor.com/m/HgrnBtOWiUsAAAAd/taehyung-taehyung-jinny%27s-kitchen.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/oDHmRSkJqCMAAAAd/taehyung-disgusted-taehyung.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
+    "But there's going to be free food... 🎂",
+    "I promise it will be a memorable night!✨",
+    "You'll literally miss the most momentous event of the year! 🎬",
+    "Are you really going to ghost me on my 18th? 💀",
+    "Pretty and handsome people don't click no 😉",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
