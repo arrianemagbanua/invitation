@@ -15,7 +15,7 @@ const noMessages = [
     "I promise it will be a memorable night!✨",
     "You'll literally miss the most momentous event of the year! 🎬",
     "Are you really going to ghost me on my 18th? 💀",
-    "Pretty and handsome people don't click no 😉",
+    "Pretty and handsome people only click Yes 😉",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
