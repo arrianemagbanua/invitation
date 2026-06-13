@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media1.tenor.com/m/o1_ggk9SJCYAAAAd/jinmojv21-bts.gif",    // 0 no
-    "https://media1.tenor.com/m/EgdVgT-ryNIAAAAC/eating-noodles.gif",  // 1 confused
-    "https://media1.tenor.com/m/bLOJ-wlCadYAAAAC/perfectboykoo-bts-hearts.gif",             // 2 pleading
-    "https://media1.tenor.com/m/s6ar-9detzsAAAAC/bts-butter.gif",             // 3 sad
-    "https://media1.tenor.com/m/VQdeegtOSlYAAAAd/cry-bts.gif",       // 4 sadder
-    "https://media1.tenor.com/m/5_t6Obz_CloAAAAd/koobifans-jungkook-live.gif",             // 5 devastated
-    "https://media1.tenor.com/m/HgrnBtOWiUsAAAAd/taehyung-taehyung-jinny%27s-kitchen.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/oDHmRSkJqCMAAAAd/taehyung-disgusted-taehyung.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/o1_ggk9SJCYAAAAd/jinmojv21-bts.gif",    // 0 
+    "https://media1.tenor.com/m/EgdVgT-ryNIAAAAC/eating-noodles.gif",  // 1
+    "https://media1.tenor.com/m/bLOJ-wlCadYAAAAC/perfectboykoo-bts-hearts.gif",             // 2
+    "https://media1.tenor.com/m/s6ar-9detzsAAAAC/bts-butter.gif",             // 3
+    "https://media1.tenor.com/m/VQdeegtOSlYAAAAd/cry-bts.gif",       // 4
+    "https://media1.tenor.com/m/5_t6Obz_CloAAAAd/koobifans-jungkook-live.gif",             // 5
+    "https://media1.tenor.com/m/HgrnBtOWiUsAAAAd/taehyung-taehyung-jinny%27s-kitchen.gif",               // 6
+    "https://media1.tenor.com/m/oDHmRSkJqCMAAAAd/taehyung-disgusted-taehyung.gif"  // 7
 ]
 
 const noMessages = [
