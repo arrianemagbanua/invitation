@@ -1,31 +1,31 @@
 const gifStages = [
     "https://media1.tenor.com/m/yEG23sxXIVQAAAAd/shrek-shrek-meme.gif",    // 0 
-    "https://media1.tenor.com/m/EgdVgT-ryNIAAAAC/eating-noodles.gif",  // 1
-    "https://media1.tenor.com/m/bLOJ-wlCadYAAAAC/perfectboykoo-bts-hearts.gif",             // 2
-    "https://media1.tenor.com/m/s6ar-9detzsAAAAC/bts-butter.gif",             // 3
-    "https://media1.tenor.com/m/VQdeegtOSlYAAAAd/cry-bts.gif",       // 4
-    "https://media1.tenor.com/m/5_t6Obz_CloAAAAd/koobifans-jungkook-live.gif",             // 5
-    "https://media1.tenor.com/m/HgrnBtOWiUsAAAAd/taehyung-taehyung-jinny%27s-kitchen.gif",               // 6
+    "https://media1.tenor.com/m/nLj5Fm_M9P8AAAAd/kween-leng-leng-leng-leng.gif",  // 1
+    "https://i.pinimg.com/1200x/1f/ec/7a/1fec7a8ed4b9829f8336b33b5995e2a3.jpg",             // 2
+    "https://media1.tenor.com/m/vrTn_y6n5skAAAAd/kaldag.gif",             // 3
+    "https://media1.tenor.com/m/HA-zAiQ294wAAAAC/scarlette-arman-salon.gif",       // 4
+    "https://media1.tenor.com/m/YrBhzo13x7kAAAAd/babae-umiiyak-pinoy-reaction.gif",             // 5
+    "https://media1.tenor.com/m/7JZ7sxbOWIwAAAAC/bakla-crush.gif",               // 6
     "https://media1.tenor.com/m/oDHmRSkJqCMAAAAd/taehyung-disgusted-taehyung.gif"  // 7
 ]
 
 const noMessages = [
-    "No",
-    "But there's going to be free food... 🎂",
-    "I promise it will be a memorable night!✨",
-    "You'll literally miss the most momentous event of the year! 🎬",
-    "Are you really going to ghost me on my 18th? 💀",
-    "Pretty and handsome people only click Yes 😉",
-    "Don't do this to me...",
+    "Yawko",
+    "Tol may pagkain don...",
+    "Ayh wag naman tayo ganyan",
+    "Promise ya sulit punta mo",
+    "Ano ano? Bastusan?",
+    "Sige lang haha ganyan ka naman",
+    "Hoy anobah :[",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "Mag no ka muna",
+    "Luh ang KJ",
+    "Mag no ngani munaa",
+    "Luh, ang kulit?"
 ]
 
 let yesTeasedCount = 0
