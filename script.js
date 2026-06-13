@@ -1,5 +1,5 @@
 const gifStages = [
-    "https://media1.tenor.com/m/o1_ggk9SJCYAAAAd/jinmojv21-bts.gif",    // 0 
+    "https://media1.tenor.com/m/yEG23sxXIVQAAAAd/shrek-shrek-meme.gif",    // 0 
     "https://media1.tenor.com/m/EgdVgT-ryNIAAAAC/eating-noodles.gif",  // 1
     "https://media1.tenor.com/m/bLOJ-wlCadYAAAAC/perfectboykoo-bts-hearts.gif",             // 2
     "https://media1.tenor.com/m/s6ar-9detzsAAAAC/bts-butter.gif",             // 3
