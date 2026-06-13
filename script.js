@@ -18,7 +18,7 @@ const noMessages = [
     "Sige lang haha ganyan ka naman",
     "Hoy anobah :[",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Di mo ko mahahabol 😜"
 ]
 
 const yesTeasePokes = [
